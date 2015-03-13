@@ -1,5 +1,7 @@
 ## Documentation
 
+![](http://nordiciothackathon.com/wp-content/uploads/2007/12/MVD_Process.png)
+
 ### MVD
 * The **MVD** is powered by **Android**, thus all the development tools and APIs you already know can be used to
 make your ideas spring to life.
@@ -10,7 +12,6 @@ various data sources and services.
 * As a requirement for the hackathon, **all teams have to use the MVD in their projects in order to be accepted to the hackathon**.  
 
 References:
-* http://nordiciothackathon.com/wp-content/uploads/2007/12/MVD_Process.png
 * http://nordiciothackathon.com/wp-content/uploads/2015/03/NIOTH2015_technology_v2.pdf
 
 ### MQTT
