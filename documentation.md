@@ -14,6 +14,7 @@ various data sources and services.
 References:
 * http://nordiciothackathon.com/wp-content/uploads/2015/03/NIOTH2015_technology_v2.pdf
 * [Feasibility Study - Minimum Viable Device to support Internet of Things Realization](http://mobileheights.org/wp-content/uploads/2013/10/Feasibility-Study_small.pdf)
+* [What are the needs of Minimum Viable Device?](https://www.youtube.com/watch?v=TH6Um6EvvmU)
 
 ### MQTT
 * http://mqtt.org/
