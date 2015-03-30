@@ -36,3 +36,4 @@ SoftHouse will offer a data API connected to the MQTT server.
 ELIS is a cloud server developed by EON and Malmo University to help you manage sensor information and connect it to other professional tools.
 * [ELIS documentation](https://github.com/iotap-center/elis-platform)
 * http://elis.mah.se
+* [ELIS Publisher API ](http://docs.elis1.apiary.io)
