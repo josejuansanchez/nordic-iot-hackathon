@@ -21,6 +21,10 @@ References:
 * [Feasibility Study - Minimum Viable Device to support Internet of Things Realization](http://mobileheights.org/wp-content/uploads/2013/10/Feasibility-Study_small.pdf)
 * [What are the needs of Minimum Viable Device?](https://www.youtube.com/watch?v=TH6Um6EvvmU)
 
+### LightBlue Bean
+* https://punchthrough.com/bean/
+* http://arduino.cc/en/Main/Software
+
 ### MQTT
 * http://mqtt.org/
 * https://github.com/mqtt/mqtt.github.io/wiki
