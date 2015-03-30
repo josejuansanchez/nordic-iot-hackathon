@@ -1,6 +1,11 @@
 ## Documentation
 
+### IoT Hackathon Platform Overview
 ![](http://nordiciothackathon.com/wp-content/uploads/2007/12/MVD_Process.png)
+
+### Technology
+* [Technology Brief - slides](https://www.slideshare.net/secret/bRrQ92nzFgy7sE)
+* [Technology questions](https://docs.google.com/document/d/1h0lKBICug8My5OAH7lWmmoBBNQwruMhF5KesUjyjl2w/edit)
 
 ### MVD
 * The **MVD** is powered by **Android**, thus all the development tools and APIs you already know can be used to
