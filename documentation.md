@@ -49,3 +49,7 @@ ELIS is a cloud server developed by EON and Malmo University to help you manage 
 
 ### Bluemix and the IoT
 * [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
+
+### Broadcom
+* http://community.broadcom.com/welcome
+* [WICED Sense Development Kit](https://www.broadcom.com/products/wiced/sense/)
