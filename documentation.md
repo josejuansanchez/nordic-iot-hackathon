@@ -37,6 +37,13 @@ References:
 * http://mqtt.org/
 * https://github.com/mqtt/mqtt.github.io/wiki
 
+### Bluemix and the IoT
+* [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
+
+### Broadcom
+* http://community.broadcom.com/welcome
+* [WICED Sense Development Kit](https://www.broadcom.com/products/wiced/sense/)
+
 ### Xively
 * https://xively.com/whats_xively/
 
@@ -49,10 +56,3 @@ ELIS is a cloud server developed by EON and Malmo University to help you manage 
 * [ELIS documentation](https://github.com/iotap-center/elis-platform)
 * http://elis.mah.se
 * [ELIS Publisher API ](http://docs.elis1.apiary.io)
-
-### Bluemix and the IoT
-* [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
-
-### Broadcom
-* http://community.broadcom.com/welcome
-* [WICED Sense Development Kit](https://www.broadcom.com/products/wiced/sense/)
