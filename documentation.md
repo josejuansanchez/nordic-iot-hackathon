@@ -1,11 +1,16 @@
 ## Documentation
 
 ### IoT Hackathon Platform Overview
-![](http://nordiciothackathon.com/wp-content/uploads/2007/12/MVD_Process.png)
+![](http://nordiciothackathon.com/wp-content/uploads/2007/12/MVD-Bild.png)
+
+### Web sites
+* [Official site](http://nordiciothackathon.com)
+* [Developer site](https://nordiciothackathon.mybluemix.net/)
 
 ### Technology
 * [Technology Brief - slides](https://www.slideshare.net/secret/bRrQ92nzFgy7sE)
 * [Technology questions](https://docs.google.com/document/d/1h0lKBICug8My5OAH7lWmmoBBNQwruMhF5KesUjyjl2w/edit)
+* [NIOTH2015_technology_v4.pdf](http://nordiciothackathon.com/wp-content/uploads/2007/12/NIOTH2015_technology_v4.pdf)
 
 ### MVD
 * The **MVD** is powered by **Android**, thus all the development tools and APIs you already know can be used to
@@ -41,3 +46,6 @@ ELIS is a cloud server developed by EON and Malmo University to help you manage 
 * [ELIS documentation](https://github.com/iotap-center/elis-platform)
 * http://elis.mah.se
 * [ELIS Publisher API ](http://docs.elis1.apiary.io)
+
+### Bluemix and the IoT
+* [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
