@@ -12,6 +12,10 @@
 * [Technology questions](https://docs.google.com/document/d/1h0lKBICug8My5OAH7lWmmoBBNQwruMhF5KesUjyjl2w/edit)
 * [NIOTH2015_technology_v4.pdf](http://nordiciothackathon.com/wp-content/uploads/2007/12/NIOTH2015_technology_v4.pdf)
 
+### FAQ
+* [FAQ - Nordic IoT Hackathon Developer Community](https://nordiciothackathon.mybluemix.net/?page_id=652)
+* [FAQ - Official site](http://nordiciothackathon.com/wp-content/uploads/2015/02/NIOTH2015_FAQ.pdf)
+
 ### MVD
 * The **MVD** is powered by **Android**, thus all the development tools and APIs you already know can be used to
 make your ideas spring to life.
@@ -22,7 +26,6 @@ various data sources and services.
 * As a requirement for the hackathon, **all teams have to use the MVD in their projects in order to be accepted to the hackathon**.  
 
 References:
-* http://nordiciothackathon.com/wp-content/uploads/2015/03/NIOTH2015_technology_v2.pdf
 * [Feasibility Study - Minimum Viable Device to support Internet of Things Realization](http://mobileheights.org/wp-content/uploads/2013/10/Feasibility-Study_small.pdf)
 * [What are the needs of Minimum Viable Device?](https://www.youtube.com/watch?v=TH6Um6EvvmU)
 
