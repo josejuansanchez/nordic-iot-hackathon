@@ -36,6 +36,7 @@ References:
 ### MQTT
 * http://mqtt.org/
 * https://github.com/mqtt/mqtt.github.io/wiki
+* [Qatja Android library](https://github.com/Qatja/android). This library creates a new service called QatjaService.java which allows for a easy connection to any MQTT server running standard version 3.1.1
 
 ### Bluemix and the IoT
 * [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
