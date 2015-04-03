@@ -46,6 +46,9 @@ References:
 ### Broadcom
 * http://community.broadcom.com/welcome
 * [WICED Sense Development Kit](https://www.broadcom.com/products/wiced/sense/)
+* [Broadcom just announced Wiced, a new hardware prototyping tool](https://www.youtube.com/watch?v=rCxTop8T0dU)
+* [Bluetooth SMART Concepts IoT 1 vWorkshop](https://www.youtube.com/watch?v=NM8SojlUd64)
+* [Broadcom's WICED SMART SDK IoT 2 vWorkshop](https://www.youtube.com/watch?v=1Kq5ALK7k0U)
 
 ### Xively
 * https://xively.com/whats_xively/
