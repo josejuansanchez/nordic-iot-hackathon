@@ -42,6 +42,7 @@ References:
 
 ### Bluemix and the IoT
 * [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
+* [Internet of Things on Bluemix](https://console.ng.bluemix.net/solutions/iot)
 
 ### Broadcom
 * http://community.broadcom.com/welcome
