@@ -42,7 +42,8 @@ References:
 
 ### Bluemix and the IoT
 * [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
-* [Internet of Things on Bluemix](https://console.ng.bluemix.net/solutions/iot)
+* [Internet of Things on Bluemix](https://console.ng.bluemix.net/solutions/iot)  
+
 #### Recipes
 * [Device Simulator](https://developer.ibm.com/iot/recipes/simulator/)
 
