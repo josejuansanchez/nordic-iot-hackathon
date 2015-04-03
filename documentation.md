@@ -32,6 +32,8 @@ References:
 ### LightBlue Bean
 * https://punchthrough.com/bean/
 * http://arduino.cc/en/Main/Software
+* [Android-to-Bean](https://github.com/arduinoverkstad/Android-to-Bean). Application example on how to connect a PunchThrough Bean board to an Android phone.
+* [BeanLib](https://bitbucket.org/littlerobots/beanlib). This is an unofficial SDK for the Punch Through Design Bean. The library allows for communication with the bean and control its various functions.
 
 ### MQTT
 * http://mqtt.org/
@@ -57,3 +59,6 @@ ELIS is a cloud server developed by EON and Malmo University to help you manage 
 * [ELIS documentation](https://github.com/iotap-center/elis-platform)
 * http://elis.mah.se
 * [ELIS Publisher API ](http://docs.elis1.apiary.io)
+
+### Other interesting references
+* https://github.com/arduinoverkstad
