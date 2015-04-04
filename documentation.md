@@ -44,6 +44,7 @@ References:
 * [YouTube videos](https://www.youtube.com/results?search_query=bluemix+iot)
 * [Internet of Things on Bluemix](https://console.ng.bluemix.net/solutions/iot)  
 * [iot-starter-for-android](https://github.com/ibm-messaging/iot-starter-for-android). This repository contains sample(s) for connecting Android devices to the IBM Internet of Things Foundation.
+* http://www.eclipse.org/paho/clients/android/
 
 #### Recipes
 * [Device Simulator](https://developer.ibm.com/iot/recipes/simulator/)
