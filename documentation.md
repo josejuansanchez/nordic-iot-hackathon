@@ -46,6 +46,8 @@ References:
 * [iot-starter-for-android](https://github.com/ibm-messaging/iot-starter-for-android). This repository contains sample(s) for connecting Android devices to the IBM Internet of Things Foundation.
 * http://www.eclipse.org/paho/clients/android/
 * http://m2m.demos.ibm.com/iotstarter.html
+* [
+Iniciación a Internet of Things Foundation](https://www.ng.bluemix.net/docs/#services/IoT/index.html#gettingstartedtemplate)
 
 #### Recipes
 * [Device Simulator](https://developer.ibm.com/iot/recipes/simulator/)
