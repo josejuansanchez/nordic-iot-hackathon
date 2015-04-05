@@ -36,6 +36,7 @@ References:
 * [BeanLib](https://bitbucket.org/littlerobots/beanlib). This is an unofficial SDK for the Punch Through Design Bean. The library allows for communication with the bean and control its various functions.
 
 ### MQTT
+* [MQTT Client](http://m2m.demos.ibm.com/utilities.html#mqttclient). A simple MQTT client for test, debug, and monitoring.
 * http://mqtt.org/
 * https://github.com/mqtt/mqtt.github.io/wiki
 * [Qatja Android library](https://github.com/Qatja/android). This library creates a new service called QatjaService.java which allows for a easy connection to any MQTT server running standard version 3.1.1
