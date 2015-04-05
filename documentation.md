@@ -50,6 +50,9 @@ References:
 * [
 Iniciación a Internet of Things Foundation](https://www.ng.bluemix.net/docs/#services/IoT/index.html#gettingstartedtemplate)
 
+### Node-RED
+* [Node-RED](http://nodered.org). A visual tool for wiring the Internet of Things.
+
 #### Recipes
 * [Device Simulator](https://developer.ibm.com/iot/recipes/simulator/)
 
